@@ -1,4 +1,4 @@
-Fine-tuning the BART model
+Fine-tuning the BART model:
 To fine-tune the BART model for summarization, we need to:
 
 Preprocess the dataset: Convert the dialogue and summary text into token IDs that the model can understand.
